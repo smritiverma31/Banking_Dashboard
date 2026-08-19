@@ -37,7 +37,8 @@ An interactive **Banking Dashboard built in Microsoft Power BI** to analyze loan
 
 The dashboard helps banking teams **monitor portfolio performance, identify credit-risk areas, analyze loan products, and support data-driven decisions**.
  📸 Screenshots/ demo
- dashboard1= 
+ dashboard1= https://github.com/smritiverma31/Banking_Dashboard/blob/main/BANKING%20DASHBOARD%201.png
+ dashboard2=
 
 
 
